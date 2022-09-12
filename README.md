@@ -7,7 +7,9 @@
 ![Group 4 (1)](https://user-images.githubusercontent.com/64713703/184543197-6300ed75-56d5-4609-860d-760141513e56.png)
 
                                                 📫 How to reach me
-![LI-In-Bug (1)](https://user-images.githubusercontent.com/64713703/184543234-3d18d960-128a-4252-a20a-c01f5148a983.png) https://www.linkedin.com/in/marcsogas/
+https://www.linkedin.com/in/marcsogas/
+
+marc.sogas@gmail.com
 
 
 
@@ -24,6 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![LI-In-Bug (1)](https://user-images.githubusercontent.com/64713703/184543234-3d18d960-128a-4252-a20a-c01f5148a983.png)
 -->
 
 <!--
