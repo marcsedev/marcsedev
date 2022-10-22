@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![2](https://user-images.githubusercontent.com/64713703/197329590-f8b437da-b48e-4804-95f0-ae06b0aa0d95.png)
+![3](https://user-images.githubusercontent.com/64713703/197329879-0596cc58-5ffb-40ab-b21e-d0738709fe66.png)
 
 
                                                🌱 I’m currently learning
