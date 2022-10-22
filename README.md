@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/marcsogas/" target="_blank">
   <img
-    src=https://user-images.githubusercontent.com/64713703/197329879-0596cc58-5ffb-40ab-b21e-d0738709fe66.png 
+    src=https://user-images.githubusercontent.com/64713703/197332495-44766c1a-3dbd-4a86-88e1-65779894524c.png
     alt="Accede a mi Linkedin"
   />
 </a>
