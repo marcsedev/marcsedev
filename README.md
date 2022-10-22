@@ -4,7 +4,7 @@
   <img
     src=https://user-images.githubusercontent.com/64713703/197329879-0596cc58-5ffb-40ab-b21e-d0738709fe66.png
     alt="Accede a mi Linkedin"
-  />
+  target="_blank"/>
 </a>
 
 ![Group 4 (1)](https://user-images.githubusercontent.com/64713703/184543197-6300ed75-56d5-4609-860d-760141513e56.png)
