@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <a href="https://www.linkedin.com/in/marcsogas/" target="_blank">
   <img
@@ -6,7 +6,7 @@
     alt="Accede a mi Linkedin"
   />
 </a>
-
+### Hi there 👋
 ![Group 4 (1)](https://user-images.githubusercontent.com/64713703/184543197-6300ed75-56d5-4609-860d-760141513e56.png)
 
                                                 📫 How to reach me
