@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-![2](https://user-images.githubusercontent.com/64713703/197329109-db5ed41b-7ef3-471f-8a1d-6618d48af2f6.png)
 
-
-
-![Group 3 (1)](https://user-images.githubusercontent.com/64713703/184543102-128ce9f5-0d64-47c7-8a5a-815d03d62ce1.png)>
+![2](https://user-images.githubusercontent.com/64713703/197329590-f8b437da-b48e-4804-95f0-ae06b0aa0d95.png)
 
 
                                                🌱 I’m currently learning
@@ -18,6 +15,8 @@ marc.sogas@gmail.com
 
 
 <!--
+![Group 3 (1)](https://user-images.githubusercontent.com/64713703/184543102-128ce9f5-0d64-47c7-8a5a-815d03d62ce1.png)>
+
 **marcsogasdev/marcsogasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 ### Hi there 👋
