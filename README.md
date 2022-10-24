@@ -1,4 +1,5 @@
 
+Hi there 👋
 
 <a href="https://www.linkedin.com/in/marcsogas/" target="_blank">
   <img
@@ -8,20 +9,28 @@
 </a>
 
 
+- 📫 How to reach me:
+ 
+ https://www.linkedin.com/in/marcsogas/
+ 
+ marc.sogas@gmail.com
+
+
+
+<!--
+
                                                 🌱 I’m currently learning
                                                 
-Hi there 👋
+
                                                 
-![Group 4 (1)](https://user-images.githubusercontent.com/64713703/184543197-6300ed75-56d5-4609-860d-760141513e56.png)
+
 
                                                 📫 How to reach me
 https://www.linkedin.com/in/marcsogas/
 
 marc.sogas@gmail.com
 
-
-
-<!--
+![Group 4 (1)](https://user-images.githubusercontent.com/64713703/184543197-6300ed75-56d5-4609-860d-760141513e56.png)
 ![Group 3 (1)](https://user-images.githubusercontent.com/64713703/184543102-128ce9f5-0d64-47c7-8a5a-815d03d62ce1.png)>
 
 **marcsogasdev/marcsogasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
