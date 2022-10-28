@@ -8,7 +8,7 @@ Hi there 👋
   />
 </a>
 
-
+-----------------------
 
 🎯Enfocado en mi carrera profesional como desarrollador de aplicaciones multiplataforma. 
 
@@ -18,6 +18,7 @@ Hi there 👋
 
 👨‍💻 Abierto a nuevos retos y aprender nuevas tecnologías y lenguajes de programación.
 
+----------------------
 
 - 📫Contactar conmigo:
  
