@@ -9,7 +9,17 @@ Hi there 👋
 </a>
 
 
-- 📫 How to reach me:
+
+🎯Enfocado en mi carrera profesional como desarrollador de aplicaciones multiplataforma. 
+
+🌱Cuento con más de 10 años de experiencia trabajando en el sector deportivo y educativo. Esto me ha permitido aprender y desarrollar habilidades sociales, de organización, de liderazgo y de trabajo en equipo. 
+
+📱Actualmente estoy especializándome en el lenguaje Java y Kotlin para desarrollar aplicaciones para Android.
+
+👨‍💻 Abierto a nuevos retos y aprender nuevas tecnologías y lenguajes de programación.
+
+
+- 📫Contactar conmigo:
  
  https://www.linkedin.com/in/marcsogas/
  
