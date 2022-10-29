@@ -23,8 +23,9 @@ Hi there 👋
 ### 📫Puedes contactar conmigo en:
  
 
-[![Linkedin_Markdown](https://user-images.githubusercontent.com/64713703/198846215-5649de28-2646-44b6-93df-dfe9a890f1a4.png)](https://www.linkedin.com/in/marcsogas/)
-[![Group 7](https://user-images.githubusercontent.com/64713703/198846469-4755ed1d-bdeb-434a-801e-2e08ff3295e0.png)](mailto:marc.sogas@gmail.com)
+[![Linkedin_Markdown](https://user-images.githubusercontent.com/64713703/198847258-5e2899a7-de95-4c08-8810-abebfdf736fb.png)](https://www.linkedin.com/in/marcsogas/)
+[![Mail_MarkDown](https://user-images.githubusercontent.com/64713703/198847272-031f0226-ace3-4546-b3cf-2332815b9158.png)
+](mailto:marc.sogas@gmail.com)
 
 
 
