@@ -20,10 +20,12 @@ Hi there 👋
 
 ----------------------
 
-- 📫Contactar conmigo:
+### 📫Puedes contactar conmigo en 
  
- https://www.linkedin.com/in/marcsogas/
  
+ [![Linkedin_Markdown](https://user-images.githubusercontent.com/64713703/198846215-5649de28-2646-44b6-93df-dfe9a890f1a4.png)](https://www.linkedin.com/in/marcsogas/)
+ 
+  
  marc.sogas@gmail.com
 
 
