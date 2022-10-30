@@ -7,6 +7,8 @@ Hi there 👋
     alt="Accede a mi Linkedin"
   />
 </a>
+<br>
+</br>
 
 > Mobile Developer | Android | Kotlin | Java
 -----------------------
