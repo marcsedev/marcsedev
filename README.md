@@ -9,7 +9,8 @@ Hi there 👋
 </a>
 
 -----------------------
-
+> Mobile Developer | Android | Kotlin | Java
+-----------------------
 🎯Enfocado en mi carrera profesional como desarrollador de aplicaciones multiplataforma. 
 
 🌱Cuento con más de 10 años de experiencia trabajando en el sector deportivo y educativo. Esto me ha permitido aprender y desarrollar habilidades sociales, de organización, de liderazgo y de trabajo en equipo. 
@@ -20,11 +21,8 @@ Hi there 👋
 
 ----------------------
 
+
 ### 📫Puedes contactar conmigo en:
-
-
-
-
 
 [ ![Linkedin_Markdown](https://user-images.githubusercontent.com/64713703/198848100-8f24821a-a97c-48c7-9e04-b9bea8481bbb.png)
 ](https://www.linkedin.com/in/marcsogas/)
