@@ -8,7 +8,6 @@ Hi there 👋
   />
 </a>
 
------------------------
 > Mobile Developer | Android | Kotlin | Java
 -----------------------
 🎯Enfocado en mi carrera profesional como desarrollador de aplicaciones multiplataforma. 
