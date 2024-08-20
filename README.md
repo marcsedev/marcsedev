@@ -31,5 +31,6 @@
 ### 📫 Puedes contactar conmigo en:
 
 [ ![Linkedin_Markdown](https://user-images.githubusercontent.com/64713703/198848100-8f24821a-a97c-48c7-9e04-b9bea8481bbb.png)](https://www.linkedin.com/in/marcsogas/)
+
 [![Mail_MarkDown](https://user-images.githubusercontent.com/64713703/198848087-9877b589-ee56-4303-89ef-218533e9165d.png)](mailto:marc.sogas@gmail.com)
 
