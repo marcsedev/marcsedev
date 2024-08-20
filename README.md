@@ -3,10 +3,8 @@
 <a href="https://www.linkedin.com/in/marcsogas/" target="_blank">
   <img src="https://user-images.githubusercontent.com/64713703/197486319-006af1bb-5544-4ac9-bdfa-a46fd8bae53d.png" alt="Accede a mi Linkedin">
 </a>
-
 <br></br>
-
-> Mobile Developer | Android | Kotlin | Java
+> Mobile Developer | Android | Kotlin | JetPackCompose | Java
 
 -----------------------
 
